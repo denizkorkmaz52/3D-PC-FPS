@@ -2,14 +2,22 @@
  3D fps game for pc
  
 # SCREENSHOTS
-![Screenshot 2023-09-11 at 20-02-10 denizkorkmaz52_kodluyoruzilkrepo Kodluyoruz Eğitimi kapsamında açtığım ilk repo](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Game%20Scene.PNG)
+Here are some screenshots of the game
 
+Main Menu
+![Main Menu](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Main%20Menu.PNG)
 
+Main Game Scene
+![Main Game Scene](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Game%20Scene.PNG)
 
-## Installation
+Loot
+![Loot](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Loot.PNG)
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Sniper Zoom
+![Sniper Zoom](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Sniper%20Zoom.PNG)
 
-```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-```
+Zoom
+![Zoom](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Zoom.PNG)
+
+Win Screen
+![Win Screen](https://github.com/denizkorkmaz52/3D-PC-FPS/blob/main/Game%20ScreenShots/Win%20Screen.PNG)
