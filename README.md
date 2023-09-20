@@ -1,5 +1,5 @@
 # 3D-FPS
- 3D fps game for pc
+ 3D fps game for pc. Your goal is to defend the transformer of your neighbourhood against zombies. You have several weapons and bombs to defend it.
  
 # SCREENSHOTS
 Here are some screenshots of the game
